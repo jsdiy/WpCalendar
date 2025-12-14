@@ -6,8 +6,12 @@ Windowsの壁紙に直接描画する非常駐型カレンダーアプリ。
 - 表示位置、大きさ、色のほか、カスタマイズの自由度が高いです。
 - 誕生日などを特別日として登録し、専用色を割り当てることができます。
 
+![画面参考](https://github.com/jsdiy/WpCalendar/blob/main/sample/wp_v200_1.png)
+![画面参考](https://github.com/jsdiy/WpCalendar/blob/main/sample/wp_v200_2.png)
+![画面参考](https://github.com/jsdiy/WpCalendar/blob/main/sample/wp_v140_2.png)
+
 # 開発環境
-- Windows11 Pro / 25H2, 日本語
+- Windows11 Pro / 25H2
 - .NET Framework 4.8
 
 # インストール／アンインストール
