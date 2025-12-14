@@ -11,6 +11,9 @@ namespace WpCalendar
 		public static FmMain MainForm { get; private set; }
 
 		public static string AppVer { get; private set; } =
+			//"ver. 1.00";	//2013/04/25	初版
+			//"ver. 1.10";	//2013/07/22	スタートアップリンク書き出しを変更
+			//"ver. 1.21";	//2017/10/08	祝日「山の日」対応
 			//"ver. 1.30";	//2019/11/06	令和対応
 			//"ver. 1.40";	//2023/11/14	スタートアップ登録機能を廃止
 			"ver. 2.00";	//2025/12/14	保存データをxml形式に変更／常駐機能廃止／構造見直し（ほぼ全クラス改造）
@@ -81,3 +84,4 @@ namespace WpCalendar
 		}
 	}
 }
+
