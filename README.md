@@ -1,0 +1,2 @@
+# WpCalendar
+Windowsの壁紙に直接描画する非常駐カレンダーアプリ
